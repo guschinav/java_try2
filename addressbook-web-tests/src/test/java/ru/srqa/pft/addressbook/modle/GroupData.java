@@ -1,4 +1,4 @@
-package ru.srqa.pft.addressbook;
+package ru.srqa.pft.addressbook.modle;
 
 public class GroupData {
   private final String name;
